@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+LFC Six Times Champions of Europe
 Use the left arrow to go back!
